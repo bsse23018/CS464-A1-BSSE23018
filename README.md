@@ -59,3 +59,13 @@ Secondary: Explorers (interacting with world), because players must learn the te
 **Player types**
 Primary: Explorers (interacting with world), because mastering the complex cockpit instruments and aerodynamic flight physics is the core activity (M1, M2, M3).
 Secondary: Achievers (acting on world), because landing on the wire is a strict pass/fail test to conquer and grade (M4, M6).
+
+## Level blockouts
+
+| Level | Screenshot | Its idea | Wayfinding tool |
+|---|---|---|---|
+| Level01 | <img src="Docs/levels/level1_end.png" width="320"> | A linear gauntlet introducing ramps and pushable low cover. | Framing: The long tunnel physically restricts the view, focusing the player directly on the goal. |
+| Level02 | <img src="Docs/levels/level2_1.png" width="320"> | A tight choke point forcing interaction with a central blocking obstacle. | Pinch and release: The narrow tunnel restricts movement before opening up to the rest of the track. |
+| Level03 | <img src="Docs/levels/level3_end.png" width="320"> | A steep vertical elevation climb requiring built-up momentum. | Landmark: The goal marker sits at the very peak, visible from the bottom of the ramp. |
+| Level04 | <img src="Docs/levels/level4_end.png" width="320"> | A curved, elevated pathway testing lateral movement and cornering. | Leading lines: The physical curve of the track naturally draws the eye toward the final destination. |
+| Level05 | <img src="Docs/levels/level5_end.png" width="320"> | A long straightaway concluding in a sudden blind drop-off gap. | Light and contrast: The brightly colored backing on the goal stands out against the empty skybox. |
